@@ -7,3 +7,5 @@ bin/
 .agent/
 brain/
 *.log
+.idea/
+*.iml
